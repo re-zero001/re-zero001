@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+[![Zero's github stats](https://github-readme-stats.vercel.app/api?username=re-zero001&show_icons=true&theme=radical)](https://github.com/re-zero001/#)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=re-zero001&theme=radical&layout=compact)](https://github.com/re-zero001/#)
 <!--
 **re-zero001/re-zero001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
